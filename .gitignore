@@ -1,0 +1,41 @@
+# Ignore Unity and large files
+Library/
+Temp/
+Logs/
+Build/
+UserSettings/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
+
+# Ignore compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+*.zip
+*.tar.gz
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.db
+*.pidb
+*.mdb
+*.opendb
+*.VC.db
+*.log
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+*.pyo
+
